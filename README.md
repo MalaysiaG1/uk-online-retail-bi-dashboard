@@ -1,8 +1,6 @@
 # UK Online Retail BI Dashboard
 Sales analysis dashboard built with Snowflake, SQL, and Tableau using the UK Online Retail dataset. Visualized KPIs like revenue by country, top customers, and return trends.
 
-# UK Online Retail BI Dashboard
-
 **Tools Used:** Snowflake, SQL, Tableau  
 **Dataset:** UK Online Retail Dataset (Kaggle)  
 **Dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/malaysia.goss/viz/UKOnlineRetailSalesDashboard/Dashboard1)  
