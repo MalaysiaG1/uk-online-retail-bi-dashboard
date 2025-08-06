@@ -22,12 +22,10 @@ This BI project simulates an end-to-end reporting workflow for a UK-based e-comm
 - Seasonal spikes in volume highlight demand forecasting opportunities
 
 ## Files Included
-- `SQL/`: Snowflake queries for data cleaning, date handling, and KPI logic
-- `tableau/`: Dashboard screenshot and Tableau workbook export (optional)
-- `README.md`: Project summary and business focus
+- SQL/: Snowflake queries for data cleaning, date handling, and KPI logic
+- tableau/: Dashboard screenshot. Dashboard link and Tableau workbook export
+- README.md: Project summary and business focus
 
-## Dashboard Preview
-![Dashboard Preview](tableau/dashboard_screenshot.png)
 
 ## View Dashboard
 [View on Tableau Public](https://public.tableau.com/app/profile/malaysia.goss/viz/UKOnlineRetailSalesDashboard/Dashboard1)
